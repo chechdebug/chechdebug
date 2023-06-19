@@ -1,20 +1,19 @@
 
 <h1 align="center">Hi 👋, I'm Ceci</h1>
 
-
-<h3 align="center">I'm a Product and Communications enthusiast based in Argentina (EU Citizen) with more than 3 years of freelance experience, and more than 1 year of formal experience in Blockchain industry.  </h3>
-
--I have been researching Blockchain ecosystems since the beginning of 2020 and I'm Ethereum / Polkadot enthusiast. I have knowledge of NFTs, standards, DeFi curious. Diverse marketplaces and ecosystems. Interested in [ReFi](https://www.refidao.com/) and environmental impact projects.
+I'm a Product and Tech Communications enthusiast based in Argentina (EU Citizen) with over 3 years of freelance experience. I have more than 1 year of formal experience in the Blockchain industry, specifically focused on Ethereum ecosystem. 
+My research on Blockchain began in early 2020, and I have a strong interest in NFTs, DeFi, Videogames, Artificial Intelligence and environmental impact projects (ReFi).
 
 <p align="center"> <a href="https://twitter.com/imgacevi" target="blank"><img src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" alt="imgacevi" /></a> </p>
 
 
 - 🔭 I’m currently working on [artbagnft](https://artbag.io/en) as Comms and Product Analyst
-- 🔭 I have a technical degree in [Design, IT and Advertising](https://drive.google.com/drive/folders/1Ed_pwjvrikjTlwdOh0LqkrYuWULnnvNZ?usp=sharing). Currently doing a [BA+MA in Communication, Public Opinion and Advertising](https://www.uba.ar/internacionales/contenido.php?id=549&lang=en). 
+- 🔭 I have a technical degree aka Bachelor of Fine Arts (BFA) in Advertising Design. Fields: [Design, IT and Advertising](https://drive.google.com/drive/folders/1Ed_pwjvrikjTlwdOh0LqkrYuWULnnvNZ?usp=sharing). Currently doing a [BA+MA in Communication, Public Opinion and Advertising](https://www.uba.ar/internacionales/contenido.php?id=549&lang=en). 
+- ✨ Specialized and certified in UX/UI Design by Coderhouse.
 - 🌱 I’m currently learning more about front-end and smart contracts to work with developers in the future.
-- 👯 I’m looking to collaborate on web3 projects, attend to hackathons and make new friends with similar interests about technology and design.
-- 💬 You can ask me about graphic design, branding, product support, UX Content, commms and industrial design.
-- 📫 How to reach me: write me at this email [justcecilia@pm.me](mailto:justcecilia@pm.me) also you can add me at Discord: heyitslia#8299
+- 👯 I’m looking to collaborate and work on blockchain / videogames / IT projects, attend to hackathons and make new friends with similar interests about technology and design.
+- 💬 You can ask me about graphic design, branding, product support, UX Content Design and Industrial Design.
+- 📫 How to reach me: write me at this email [justcecilia@pm.me](mailto:justcecilia@pm.me) also you can add me at Discord: heyitslia
 - ⚡ I have recently won as a team the first prize in two hackathons about blockchain, DeFi and NFTs, in which I have developed as a Designer / Product Designer / interacting with front end, back end, smart contracts developers and bussiness devs.
 [HacksHackersBA Media Party](https://twitter.com/HacksHackersBA) - [BearBuilders x Ripio x Welook](https://twitter.com/Bear_Builders).
 
