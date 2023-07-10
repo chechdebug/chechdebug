@@ -1,20 +1,22 @@
 
 <h1 align="center">Hi 👋, I'm Ceci</h1>
 
-I'm a Product and Tech Communications enthusiast based in Argentina (EU Citizen) with over 3 years of freelance experience. I have more than 1 year of formal experience in the Blockchain industry, specifically focused on Ethereum ecosystem. 
-My research on Blockchain began in early 2020, and I have a strong interest in NFTs, DeFi, Videogames, Artificial Intelligence and environmental impact projects (ReFi).
+<div align="center">
+🎯 I am an 🇦🇷Argentina-based (EU Citizen🇮🇹) young professional with experience in Product and Tech Communications. 
+My expertise centers around the fast-paced and exciting field of the Blockchain industry, with a specific focus on the Ethereum ecosystem. I am thrilled about the potential that lies within Blockchain, Videogames, Artificial Intelligence, and Fintech, and I am eager to explore opportunities in these domains to apply my skills and drive innovation.
+</div>
 
 <p align="center"> <a href="https://twitter.com/imgacevi" target="blank"><img src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" alt="imgacevi" /></a> </p>
 
 
-- 🔭 I’m currently working on [artbagnft](https://artbag.io/en) as Comms and Product Analyst
+- 🔭 Former Comms and Product Analyst at [BAG Corp](www.bag-corp.io), providing blockchain solutions for the art and culture sector in Latin America.
 - 🔭 I have a technical degree aka Bachelor of Fine Arts (BFA) in Advertising Design. Fields: [Design, IT and Advertising](https://drive.google.com/drive/folders/1Ed_pwjvrikjTlwdOh0LqkrYuWULnnvNZ?usp=sharing). Currently doing a [BA+MA in Communication, Public Opinion and Advertising](https://www.uba.ar/internacionales/contenido.php?id=549&lang=en). 
 - ✨ Specialized and certified in UX/UI Design by Coderhouse.
 - 🌱 I’m currently learning more about front-end and smart contracts to work with developers in the future.
 - 👯 I’m looking to collaborate and work on blockchain / videogames / IT projects, attend to hackathons and make new friends with similar interests about technology and design.
 - 💬 You can ask me about graphic design, branding, product support, UX Content Design and Industrial Design.
-- 📫 How to reach me: write me at this email [justcecilia@pm.me](mailto:justcecilia@pm.me) also you can add me at Discord: heyitslia
-- ⚡ I have recently won as a team the first prize in two hackathons about blockchain, DeFi and NFTs, in which I have developed as a Designer / Product Designer / interacting with front end, back end, smart contracts developers and bussiness devs.
+- 📫 How to reach me: write me at this email [justcecilia@pm.me](mailto:justcecilia@pm.me).
+- ⚡ I have recently participated and won as a team the first prize in two hackathons about blockchain, DeFi and NFTs, in which I have developed as a Designer / Product Designer / interacting with front end, back end, smart contracts developers and bussiness devs.
 [HacksHackersBA Media Party](https://twitter.com/HacksHackersBA) - [BearBuilders x Ripio x Welook](https://twitter.com/Bear_Builders).
 
 I'm interested in finding solutions to problems through innovative products, participating in the ideation and development from the beggining to end. Using blockchain technology and appealing [web3 ethos.](https://web3.foundation/about/#:~:text=Web3%20Foundation%20believes%20in%20an,information%20and%20value%20are%20decentralized)
@@ -29,16 +31,18 @@ Join [Dēbita.](https://twitter.com/DebitaFinance) community.
 <image src="https://pbs.twimg.com/profile_images/1483877855586963459/VVWXmSVk_400x400.jpg" alt="viamirror" width="40" height="40"/>  <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1200px-MetaMask_Fox.svg.png" alt="metamask" width="40" height="40"/> 
 <a href="https://www.adobe.com" target="_blank" rel="noreferrer"> <img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-logo-0.png" alt="adobe" width="40" height="40"/>
 
-A brief description of my GitHub profile.
+<p align="center">A brief description of my GitHub profile.</p>
+
+<div align="center">
 
 [![Cecilia's GitHub stats](https://github-readme-stats.vercel.app/api?username=chechdebug&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 
 <p align="center"> <a href="https://twitter.com/imgacevi" target="blank"><img src="https://img.shields.io/twitter/follow/imgacevi?logo=twitter&style=for-the-badge" alt="imgacevi" /></a> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chechdebug&label=Profile%20views&color=0e75b6&style=flat" alt="chechdebug" /> </p>
-
-<p align="center"> <a href="https://twitter.com/imgacevi" target="blank"><img src=https://media.tenor.com/5ywEAT4JfHUAAAAi/capoo-blue.gif" alt="imgacevi" width="100" height="80" /></a> </p> <p align="center">  <a href="https://twitter.com/imgacevi" target="blank"><img src=https://media.tenor.com/MM7S5R6B_dIAAAAi/bugcat-bugcatsticker.gif" alt="imgacevi"  width="100" height="80" /></a> </p>
 
 <h3 align="center"> Thanks for reading me and let's keep in touch! 
 
