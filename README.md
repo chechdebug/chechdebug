@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Ceci</h1>
 
 <div align="center">
@@ -13,13 +12,13 @@ My expertise centers around the fast-paced and exciting field of the Blockchain 
 - 🔭 I have a technical degree aka Bachelor of Fine Arts (BFA) in Advertising Design. Fields: [Design, IT and Advertising](https://drive.google.com/drive/folders/1Ed_pwjvrikjTlwdOh0LqkrYuWULnnvNZ?usp=sharing). Currently doing a [BA+MA in Communication, Public Opinion and Advertising](https://www.uba.ar/internacionales/contenido.php?id=549&lang=en). 
 - ✨ Specialized and certified in UX/UI Design by Coderhouse.
 - 🌱 I’m currently learning more about front-end and smart contracts to work with developers in the future.
-- 👯 I’m looking to collaborate and work on blockchain / videogames / IT projects, attend to hackathons and make new friends with similar interests about technology and design.
-- 💬 You can ask me about graphic design, branding, product support, UX Content Design and Industrial Design.
+- 👯 I’m looking to collaborate and work on blockchain / videogames / IT projects, attend to events, conferences or seminars and make new friends with similar interests about technology and design. I firmly believe that ongoing learning is a fundamental aspect of personal and career development, as it allows me to expand my skill set and improve performance.
+- 💬 If you need help, feel free to approach me with any inquiries related to comms, graphic design, branding, product support, UX content design, and industrial design, among a myriad of other subjects that I like.
 - 📫 How to reach me: write me at this email [justcecilia@pm.me](mailto:justcecilia@pm.me).
-- ⚡ I have recently participated and won as a team the first prize in two hackathons about blockchain, DeFi and NFTs, in which I have developed as a Designer / Product Designer / interacting with front end, back end, smart contracts developers and bussiness devs.
+- ⚡ Among my accomplishments in 2022, I had the privilege of participating in and securing first place in two hackathons centered around blockchain, DeFi, and NFTs. Throughout these experiences, I played a vital role as a designer and product designer, collaborating closely with teams of front-end, back-end, smart contract developers, and business developers.
 [HacksHackersBA Media Party](https://twitter.com/HacksHackersBA) - [BearBuilders x Ripio x Welook](https://twitter.com/Bear_Builders).
 
-I'm interested in finding solutions to problems through innovative products, participating in the ideation and development from the beggining to end. Using blockchain technology and appealing [web3 ethos.](https://web3.foundation/about/#:~:text=Web3%20Foundation%20believes%20in%20an,information%20and%20value%20are%20decentralized)
+I am driven by the pursuit of problem-solving through technology, and I thoroughly enjoy engaging in the entire lifecycle of ideation and development. Given the opportunity, I strive to incorporate blockchain technology and embrace the [ethos of web3.](https://web3.foundation/about/#:~:text=Web3%20Foundation%20believes%20in%20an,information%20and%20value%20are%20decentralized)
 
 Join [Letther](https://twitter.com/lettherxyz) community.
 
