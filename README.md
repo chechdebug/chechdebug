@@ -20,6 +20,12 @@ My expertise centers around the fast-paced and exciting field of the Blockchain 
 
 I am driven by the pursuit of problem-solving through technology, and I thoroughly enjoy engaging in the entire lifecycle of ideation and development. Given the opportunity, I strive to incorporate blockchain technology and embrace the [ethos of web3.](https://web3.foundation/about/#:~:text=Web3%20Foundation%20believes%20in%20an,information%20and%20value%20are%20decentralized)
 
+> Web3 Foundation believes in an internet where:
+> - Users own their own data, not corporations
+> - Global digital transactions are secure
+> - Online exchanges of information and value are decentralized
+
+
 Join [Letther](https://twitter.com/lettherxyz) community.
 
 Join [Dēbita.](https://twitter.com/DebitaFinance) community.
