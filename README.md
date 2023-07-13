@@ -42,6 +42,8 @@ Join [Dēbita.](https://twitter.com/DebitaFinance) community.
 
 [![Cecilia's GitHub stats](https://github-readme-stats.vercel.app/api?username=chechdebug&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chechdebug&layout=pie)](https://github.com/chechdebug/github-readme-stats)
+
 </div>
 
 
