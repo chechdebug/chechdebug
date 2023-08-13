@@ -7,7 +7,7 @@ My expertise centers around the fast-paced and exciting field of the Blockchain 
 
 <p align="center"> <a href="https://twitter.com/imgacevi" target="blank"><img src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" alt="imgacevi" /></a> </p>
 
-
+- 🍋 Semi Senior Comms Analyst at [Lemon Cash](https://www.lemon.me/en), the portal to the new economy ⚡.
 - 🔭 Former Comms and Product Analyst at [BAG Corp](https://www.bag-corp.io/), providing blockchain solutions for the art and culture sector in Latin America.
 - 🔭 I have a technical degree aka Bachelor of Fine Arts (BFA) in Advertising Design. Fields: [Design, IT and Advertising](https://drive.google.com/drive/folders/1Ed_pwjvrikjTlwdOh0LqkrYuWULnnvNZ?usp=sharing). Currently doing a [BA+MA in Communication, Public Opinion and Advertising](https://www.uba.ar/internacionales/contenido.php?id=549&lang=en). 
 - ✨ Specialized and certified in UX/UI Design by Coderhouse.
