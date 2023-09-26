@@ -16,11 +16,15 @@ Mi background gira alrededor de la Comunicación y el Diseño, sin embargo soy a
 
 <div align="center">
   
+  [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ceciliavit) [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vcecilia/) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imgacevi) 
+</div>
+
+
+<div align="center">
+  
 [![Cecilia's GitHub stats](https://github-readme-stats.vercel.app/api?username=chechdebug&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-<p align="center"> <a href="https://twitter.com/imgacevi" target="blank"><img src="https://img.shields.io/twitter/follow/imgacevi?logo=twitter&style=for-the-badge" alt="imgacevi" /></a> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chechdebug&label=Profile%20views&color=0e75b6&style=flat" alt="chechdebug" /> </p>
 
