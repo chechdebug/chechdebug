@@ -1,9 +1,10 @@
 <h1 align="lef">Hello! 👋 I'm Ceci</h1>
 
-- 👩 While my professional background centers on Comms and Design, my heart belongs to technology; I'm an avid fan of Product Development, Video Games and Blockchain
-- 🔭 I have a Technical Degree in Advertising Design and Communication from Escuelas Técnicas Raggio. - aka BFA in Advertising Design Program: [Design, IT and Advertising](https://drive.google.com/drive/folders/1Ed_pwjvrikjTlwdOh0LqkrYuWULnnvNZ?usp=sharing).
+
+- 👩 My expertise is in Comms and Design, but my passion lies in tech – Product Development, Video Games, and Blockchain 💡.
+- 🔭 I have a Bachelor in Advertising Design and Communication from Escuelas Técnicas Raggio. - aka BFA in Advertising Design Program: [Design, IT and Advertising](https://drive.google.com/drive/folders/1Ed_pwjvrikjTlwdOh0LqkrYuWULnnvNZ?usp=sharing).
 - 📚 I'm a student of Communication Sciences at UBA (University of Buenos Aires).- [BA+MA in Communication, Public Opinion and Advertising](https://www.uba.ar/internacionales/contenido.php?id=549&lang=en).
-- 🌱 Probably, when you read this, I'll be learning something new.
+- 🌱 Probably, when you read this, I'll be learning something new (Front End Development).
 - ✨ Specialized and certified in UX/UI Design.
 - 🏆 Throughout the year 2022, I had the privilege of participating in two hackathons. In these experiences, I played the role of a digital designer and collaborated with front-end and back-end developer teams, experts in smart contracts, and business analysts.
 [HacksHackersBA Media Party](https://twitter.com/HacksHackersBA) -> [Letther](https://twitter.com/lettherxyz). - [BearBuilders x Ripio x Welook](https://twitter.com/Bear_Builders) -> [Dēbita](https://twitter.com/DebitaFinance).
