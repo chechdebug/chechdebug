@@ -7,6 +7,7 @@ I build visual identities, design systems and content that people actually engag
 🎨 Trained in Advertising Design at Escuelas Técnicas Raggio – Design, IT and Advertising.
 🧩 Certified in Product Management (UTN Buenos Aires) and UX/UI Design (Coderhouse).
 🌱 Currently shipping dev stuff.
+
 🏆 Throughout the year 2022, I had the privilege of participating in two hackathons. In these experiences, I played the role of a digital designer and collaborated with front-end and back-end developer teams, experts in smart contracts, and business analysts.
 [HacksHackersBA Media Party](https://twitter.com/HacksHackersBA) -> [Letther](https://twitter.com/lettherxyz). - [BearBuilders x Ripio x Welook](https://twitter.com/Bear_Builders) -> [Dēbita](https://twitter.com/DebitaFinance).
 
